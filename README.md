@@ -7,7 +7,7 @@ The client, Maria, has received student data from different school districts. We
 To analyze student data for different school districts.
 ---
 ## Results and Analysis
-(Student Data)[Resources/new_full_student_data.csv] was used for analysis.
+[Student Data](Resources/new_full_student_data.csv) was used for analysis.
 The original dataset was cleaned by removing any null and duplicate values. To simplify filtering, grades were converted from string to integer values by removing "th". Once cleaned, descriptive stats were run on the different numerical columns to gleen any potential insights. Different subsets were also created and compared (e.g. school types, grades) to provide further clarity on the dataset.
 
 ### Budget
